@@ -265,8 +265,6 @@ sudo head /mnt/msf2-nfs/etc/shadow
 
 The command returned password-hash entries from the target system.
 
-> Password hashes must be redacted before any screenshot or report is published publicly.
-
 ![F-02 Shadow File Exposure](../evidence/finding-02-nfs-shadow-exposure.png)
 
 #### Impact
